@@ -1,0 +1,49 @@
+Traits,Pentoses,Hexoses,Modified Glucose,Glucosides,Sugar Alcohols,Other Alcohols,Acids,Miscellaneous,Contains Fructose,Contains Galactose,Fermentation,Temperature,Nitrogen
+Glucose_F,0,1,0,0,0,0,0,0,0,0,1,0,0
+Galactose_F,0,1,0,0,0,0,0,0,0,1,1,0,0
+Sucrose_F,0,0,0,1,0,0,0,0,1,0,1,0,0
+Maltose_F,0,0,0,1,0,0,0,0,0,0,1,0,0
+Lactose_F,0,0,0,1,0,0,0,0,0,1,1,0,0
+Raffinose_F,0,0,0,1,0,0,0,0,1,1,1,0,0
+Trehalose_F,0,0,0,1,0,0,0,0,0,0,1,0,0
+Inulin,0,0,0,0,0,0,0,0,1,0,0,0,0
+Sucrose,0,0,0,1,0,0,0,0,1,0,0,0,0
+Raffinose,0,0,0,1,0,0,0,0,1,1,0,0,0
+Melibiose,0,0,0,1,0,0,0,0,0,1,0,0,0
+Galactose,0,1,0,0,0,0,0,0,0,1,0,0,0
+Lactose,0,0,0,1,0,0,0,0,0,1,0,0,0
+Trehalose,0,0,0,1,0,0,0,0,0,0,0,0,0
+Maltose,0,0,0,1,0,0,0,0,0,0,0,0,0
+Melezitose,0,0,0,1,0,0,0,0,1,0,0,0,0
+Methyl-?-D-glucoside,0,0,0,1,0,0,0,0,0,0,0,0,0
+Soluble Starch,0,0,0,0,0,0,0,1,0,0,0,0,0
+Cellobiose,0,0,0,1,0,0,0,0,0,0,0,0,0
+Salicin,0,0,0,1,0,0,0,0,0,0,0,0,0
+L-Sorbose,0,1,0,0,0,0,0,0,0,0,0,0,0
+L-Rhamnose,1,0,0,0,0,0,0,0,0,0,0,0,0
+D-Xylose,1,0,0,0,0,0,0,0,0,0,0,0,0
+L-Arabinose,1,0,0,0,0,0,0,0,0,0,0,0,0
+D-Arabinose,1,0,0,0,0,0,0,0,0,0,0,0,0
+D-Ribose,1,0,0,0,0,0,0,0,0,0,0,0,0
+Methanol,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ethanol,0,0,0,0,0,1,0,0,0,0,0,0,0
+Glycerol,0,0,0,0,1,0,0,0,0,0,0,0,0
+Erythritol,0,0,0,0,1,0,0,0,0,0,0,0,0
+Ribitol,0,0,0,0,1,0,0,0,0,0,0,0,0
+Galactitol,0,0,0,0,1,0,0,0,0,1,0,0,0
+D-Mannitol,0,0,0,0,1,0,0,0,0,0,0,0,0
+D-Glucitol,0,0,0,0,1,0,0,0,0,0,0,0,0
+myo-Inositol,0,0,0,0,1,0,0,0,0,0,0,0,0
+DL-Lactate,0,0,0,0,0,0,1,0,0,0,0,0,0
+Succinate,0,0,0,0,0,0,1,0,0,0,0,0,0
+Citrate,0,0,0,0,0,0,1,0,0,0,0,0,0
+D-Gluconate,0,0,1,0,0,0,1,0,0,0,0,0,0
+D-Glucosamine,0,0,1,0,0,0,0,1,0,0,0,0,1
+Nitrate,0,0,0,0,0,0,0,0,0,0,0,0,1
+Vitamin-free,0,0,0,0,0,0,0,1,0,0,0,0,0
+2-Keto-D-gluconate,0,0,1,0,0,0,1,0,0,0,0,0,0
+Starch formation,0,0,0,0,0,0,0,1,0,0,0,0,0
+Growth at 19°C,0,0,0,0,0,0,0,0,0,0,0,1,0
+Growth at 25°C,0,0,0,0,0,0,0,0,0,0,0,1,0
+Growth at 30°C,0,0,0,0,0,0,0,0,0,0,0,1,0
+Growth at 37°C,0,0,0,0,0,0,0,0,0,0,0,1,0
